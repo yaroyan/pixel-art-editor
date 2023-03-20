@@ -22,7 +22,12 @@
 				"vadimcn.vscode-lldb",
 				"bungcip.better-toml",
 				"serayuzgur.crates",
-				"rust-lang.rust-analyzer"
+				"rust-lang.rust-analyzer",
+				"dbaeumer.vscode-eslint",
+				"esbenp.prettier-vscode",
+				"xabikos.JavaScriptSnippets",
+				"dsznajder.es7-react-js-snippets",
+				"ecmel.vscode-html-css"
 			]
 		}
 	},
