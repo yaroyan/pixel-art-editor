@@ -1,4 +1,6 @@
 {
     "editor.formatOnSave": true,
-    "rust-analyzer.checkOnSave.command": "clippy"
+    "rust-analyzer.linkedProjects": [
+        "/workspaces/pixel-art-editor/pae/src-tauri/Cargo.toml"
+    ]
 }
