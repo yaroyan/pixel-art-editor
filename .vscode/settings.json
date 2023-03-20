@@ -1,6 +1,12 @@
 {
-    "editor.formatOnSave": true,
-    "rust-analyzer.linkedProjects": [
-        "/workspaces/pixel-art-editor/pae/src-tauri/Cargo.toml"
-    ]
+  "editor.formatOnSave": true,
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "rust-analyzer.linkedProjects": [
+    "/workspaces/pixel-art-editor/pae/src-tauri/Cargo.toml"
+  ]
 }
